@@ -1,4 +1,4 @@
-export default function platzom(str) {
+export default function platzom_dan(str) {
   var translation = str;
 
   // Si la palabra termina con "ar", se le quitan esas dos letras
