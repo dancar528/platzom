@@ -1,7 +1,7 @@
 const expect = require('chai').expect
 const platzom = require('..').default
 
-describe('#platzom', function(){
+describe('#platzom_dan', function(){
 
   it('Si la palabra termina con "ar", se le quitan esas dos letras', function(){
       const translation = platzom("Programar")
